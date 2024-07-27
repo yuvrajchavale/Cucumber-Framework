@@ -11,7 +11,7 @@ import cucumber.api.testng.AbstractTestNGCucumberTests;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(dryRun = false,features = {"./FeatureFiles/login.feature"},
-glue = {"D:\\Cucumber-Framework\\Cucumber_Freamework\\FeatureFiles\\login.feature"},
+glue = {"stepDefination"},
 plugin= {"pretty","html:target/cucumber-reports"},monochrome = true)
 public class Runner extends AbstractTestNGCucumberTests 
 {

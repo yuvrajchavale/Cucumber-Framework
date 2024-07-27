@@ -27,8 +27,7 @@ When i close browser
 Examples:
 |username|password|
 |Admin|Qedge@123|
-|admin|Qedge123!@#|
+|Amin|Qedge|
 |admin1|Qegebjh123!@#|
-|||
-|     |    |
+
 
