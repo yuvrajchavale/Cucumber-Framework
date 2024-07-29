@@ -3,14 +3,16 @@ package stepDefination;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
 
+import cucumber.api.PendingException;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
 public class StepDefinations {
 	public static WebDriver driver;
+	String Act = "";
+	String Exp = "";
 
 	@Given("^i open browser with url \"([^\"]*)\"$")
 	public void launchApp(String url) throws Throwable  
@@ -84,5 +86,7 @@ public class StepDefinations {
 			System.out.println("System displaying expected error message for invalid inputs");
 		}		
 	}
-
+	
+	
+	
 }
