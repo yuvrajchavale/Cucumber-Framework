@@ -37,8 +37,11 @@ Feature: Employee Management
     And I click login
     Then I should see the PIM module
     When I click the PIM button
-    And I search for the employee with id "1234"
-    When I select the employee
+    And I search for the employee with id "1670"
+    And Click on search button
+    When select the employee
     And I click the delete button
-    Then I should see the employee is deleted
+    And  I should see OK Button
+    And Click on OK Button
+    Then I should see the employee deleted sucessfully
     When I close the browser

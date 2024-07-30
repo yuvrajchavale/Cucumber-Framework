@@ -16,6 +16,7 @@ public class EmpDeletionCreation {
 	@Given("I open the browser with URL {string}")
 	public void i_open_the_browser_with_URL(String url) {
 		 driver = new ChromeDriver();
+		 driver.manage().window().maximize();
 	        driver.get(url);
 	}
 
@@ -85,48 +86,62 @@ public class EmpDeletionCreation {
 
 	@When("I click on the save button")
 	public void i_click_on_the_save_button() {
-	    // Write code here that turns the phrase above into concrete actions
-	    throw new PendingException();
+	   driver.findElement(By.xpath("//input[@id='btnSave']")).click();
 	}
 
 	@Then("user wait for the Employee Id")
 	public void user_wait_for_the_Employee_Id() {
-		 WebElement employeeIdElement = driver.findElement(By.id("employeeId"));
+		 WebElement employeeIdElement = driver.findElement(By.name("personal[txtEmployeeId]"));
 	        assert(employeeIdElement.isDisplayed());
 	}
 	@Then("I capture the Employee Id")
 	public void i_capture_the_Employee_Id() {
-		 driver.findElement(By.id("btnSave")).click();
+		String Exp = driver.findElement(By.name("personal[txtEmployeeId]")).getText();
 	}
 
 	@When("I close the browser")
 	public void i_close_the_browser() {
-	    // Write code here that turns the phrase above into concrete actions
-	    throw new PendingException();
+	   driver.quit();
 	}
 
 	@When("I search for the employee with id {string}")
 	public void i_search_for_the_employee_with_id(String string) {
-		 WebElement employeeIdElement = driver.findElement(By.id("employeeId"));
+		 WebElement employeeIdElement = driver.findElement(By.name("empsearch[id]"));
 	        assert(employeeIdElement.isDisplayed());
 	}
 
-	@When("I select the employee")
-	public void i_select_the_employee() {
-	    // Write code here that turns the phrase above into concrete actions
-	    throw new PendingException();
+	@When("Click on search button")
+	public void click_on_search_button() {
+	    driver.findElement(By.id("searchBtn")).click();
+	}
+
+	@When("select the employee")
+	public void select_the_employee() {
+	    driver.findElement(By.name("chkSelectRow[]")).click();
 	}
 
 	@When("I click the delete button")
 	public void i_click_the_delete_button() {
-	    // Write code here that turns the phrase above into concrete actions
-	    throw new PendingException();
+	   driver.findElement(By.id("btnDelete")).click();
 	}
 
-	@Then("I should see the employee is deleted")
-	public void i_should_see_the_employee_is_deleted() {
-	    // Write code here that turns the phrase above into concrete actions
-	    throw new PendingException();
+	@When("I should see OK Button")
+	public void i_should_see_OK_Button() {
+	    if (driver.findElement(By.id("dialogDeleteBtn")).isDisplayed()) {
+			System.out.println("OK Button Displayed Process now");
+		}
+	}
+
+	@When("Click on OK Button")
+	public void click_on_OK_Button() {
+		driver.findElement(By.id("dialogDeleteBtn")).click();
+	}
+
+	@Then("I should see the employee deleted sucessfully")
+	public void i_should_see_the_employee_deleted_sucessfully() {
+	    if (driver.findElement(By.xpath("//div[@id='successBodyDelete'] ")).isDisplayed()) {
+			System.out.println("Employee Deleted Sucessfully");
+		}
 	}
 
 }
