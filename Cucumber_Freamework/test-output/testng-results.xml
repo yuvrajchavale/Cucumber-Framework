@@ -1,152 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="6" passed="0" failed="0" skipped="6">
+<testng-results ignored="0" total="4" passed="0" failed="0" skipped="4">
   <reporter-output>
     <line>
-      <![CDATA[<div "result">i open browser with url &quot;http:&#x2F;&#x2F;www.orangehrm.qedgetech.com&#x2F;&quot; (UNDEFINED)</div>]]>
+      <![CDATA[<div "result">i open browser with url &quot;http:&#x2F;&#x2F;www.orangehrm.qedgetech.com&#x2F;&quot; (FAILED : 3s)</div>]]>
     </line>
     <line>
-      <![CDATA[<div "result">i should see login page (UNDEFINED)</div>]]>
+      <![CDATA[<div "result">i should see login page (SKIPPED)</div>]]>
     </line>
     <line>
-      <![CDATA[<div "result">i enter username as &quot;Admin&quot; (UNDEFINED)</div>]]>
+      <![CDATA[<div "result">i enter username as &quot;Admin&quot; (SKIPPED)</div>]]>
     </line>
     <line>
-      <![CDATA[<div "result">i enter password as &quot;Qedge123!@#&quot; (UNDEFINED)</div>]]>
+      <![CDATA[<div "result">i enter password as &quot;Qedge123!@#&quot; (SKIPPED)</div>]]>
     </line>
     <line>
-      <![CDATA[<div "result">i click login (UNDEFINED)</div>]]>
+      <![CDATA[<div "result">i click login (SKIPPED)</div>]]>
     </line>
     <line>
-      <![CDATA[<div "result">i should see admin module (UNDEFINED)</div>]]>
+      <![CDATA[<div "result">i should see admin module (SKIPPED)</div>]]>
     </line>
     <line>
-      <![CDATA[<div "result">i click logout (UNDEFINED)</div>]]>
+      <![CDATA[<div "result">i click logout (SKIPPED)</div>]]>
     </line>
     <line>
-      <![CDATA[<div "result">i should see login page (UNDEFINED)</div>]]>
+      <![CDATA[<div "result">i should see login page (SKIPPED)</div>]]>
     </line>
     <line>
-      <![CDATA[<div "result">i close browser (UNDEFINED)</div>]]>
+      <![CDATA[<div "result">i close browser (SKIPPED)</div>]]>
     </line>
     <line>
-      <![CDATA[<div "result">i open browser with url &quot;http:&#x2F;&#x2F;www.orangehrm.qedgetech.com&#x2F;&quot; (UNDEFINED)</div>]]>
+      <![CDATA[<div "result">i open browser with url &quot;http:&#x2F;&#x2F;www.orangehrm.qedgetech.com&#x2F;&quot; (FAILED : 1s)</div>]]>
     </line>
     <line>
-      <![CDATA[<div "result">i should see login page (UNDEFINED)</div>]]>
+      <![CDATA[<div "result">i should see login page (SKIPPED)</div>]]>
     </line>
     <line>
-      <![CDATA[<div "result">i enter username as &quot;Admin&quot; (UNDEFINED)</div>]]>
+      <![CDATA[<div "result">i enter username as &quot;Admin&quot; (SKIPPED)</div>]]>
     </line>
     <line>
-      <![CDATA[<div "result">i enter password as &quot;Qedge@123&quot; (UNDEFINED)</div>]]>
+      <![CDATA[<div "result">i enter password as &quot;Qedge@123&quot; (SKIPPED)</div>]]>
     </line>
     <line>
-      <![CDATA[<div "result">i click login (UNDEFINED)</div>]]>
+      <![CDATA[<div "result">i click login (SKIPPED)</div>]]>
     </line>
     <line>
-      <![CDATA[<div "result">i should see error message (UNDEFINED)</div>]]>
+      <![CDATA[<div "result">i should see error message (SKIPPED)</div>]]>
     </line>
     <line>
-      <![CDATA[<div "result">i close browser (UNDEFINED)</div>]]>
+      <![CDATA[<div "result">i close browser (SKIPPED)</div>]]>
     </line>
     <line>
-      <![CDATA[<div "result">i open browser with url &quot;http:&#x2F;&#x2F;www.orangehrm.qedgetech.com&#x2F;&quot; (UNDEFINED)</div>]]>
+      <![CDATA[<div "result">i open browser with url &quot;http:&#x2F;&#x2F;www.orangehrm.qedgetech.com&#x2F;&quot; (FAILED : 2s)</div>]]>
     </line>
     <line>
-      <![CDATA[<div "result">i should see login page (UNDEFINED)</div>]]>
+      <![CDATA[<div "result">i should see login page (SKIPPED)</div>]]>
     </line>
     <line>
-      <![CDATA[<div "result">i enter username as &quot;admin&quot; (UNDEFINED)</div>]]>
+      <![CDATA[<div "result">i enter username as &quot;Amin&quot; (SKIPPED)</div>]]>
     </line>
     <line>
-      <![CDATA[<div "result">i enter password as &quot;Qedge123!@#&quot; (UNDEFINED)</div>]]>
+      <![CDATA[<div "result">i enter password as &quot;Qedge&quot; (SKIPPED)</div>]]>
     </line>
     <line>
-      <![CDATA[<div "result">i click login (UNDEFINED)</div>]]>
+      <![CDATA[<div "result">i click login (SKIPPED)</div>]]>
     </line>
     <line>
-      <![CDATA[<div "result">i should see error message (UNDEFINED)</div>]]>
+      <![CDATA[<div "result">i should see error message (SKIPPED)</div>]]>
     </line>
     <line>
-      <![CDATA[<div "result">i close browser (UNDEFINED)</div>]]>
+      <![CDATA[<div "result">i close browser (SKIPPED)</div>]]>
     </line>
     <line>
-      <![CDATA[<div "result">i open browser with url &quot;http:&#x2F;&#x2F;www.orangehrm.qedgetech.com&#x2F;&quot; (UNDEFINED)</div>]]>
+      <![CDATA[<div "result">i open browser with url &quot;http:&#x2F;&#x2F;www.orangehrm.qedgetech.com&#x2F;&quot; (FAILED : 2s)</div>]]>
     </line>
     <line>
-      <![CDATA[<div "result">i should see login page (UNDEFINED)</div>]]>
+      <![CDATA[<div "result">i should see login page (SKIPPED)</div>]]>
     </line>
     <line>
-      <![CDATA[<div "result">i enter username as &quot;admin1&quot; (UNDEFINED)</div>]]>
+      <![CDATA[<div "result">i enter username as &quot;admin1&quot; (SKIPPED)</div>]]>
     </line>
     <line>
-      <![CDATA[<div "result">i enter password as &quot;Qegebjh123!@#&quot; (UNDEFINED)</div>]]>
+      <![CDATA[<div "result">i enter password as &quot;Qegebjh123!@#&quot; (SKIPPED)</div>]]>
     </line>
     <line>
-      <![CDATA[<div "result">i click login (UNDEFINED)</div>]]>
+      <![CDATA[<div "result">i click login (SKIPPED)</div>]]>
     </line>
     <line>
-      <![CDATA[<div "result">i should see error message (UNDEFINED)</div>]]>
+      <![CDATA[<div "result">i should see error message (SKIPPED)</div>]]>
     </line>
     <line>
-      <![CDATA[<div "result">i close browser (UNDEFINED)</div>]]>
-    </line>
-    <line>
-      <![CDATA[<div "result">i open browser with url &quot;http:&#x2F;&#x2F;www.orangehrm.qedgetech.com&#x2F;&quot; (UNDEFINED)</div>]]>
-    </line>
-    <line>
-      <![CDATA[<div "result">i should see login page (UNDEFINED)</div>]]>
-    </line>
-    <line>
-      <![CDATA[<div "result">i enter username as &quot;&quot; (UNDEFINED)</div>]]>
-    </line>
-    <line>
-      <![CDATA[<div "result">i enter password as &quot;&quot; (UNDEFINED)</div>]]>
-    </line>
-    <line>
-      <![CDATA[<div "result">i click login (UNDEFINED)</div>]]>
-    </line>
-    <line>
-      <![CDATA[<div "result">i should see error message (UNDEFINED)</div>]]>
-    </line>
-    <line>
-      <![CDATA[<div "result">i close browser (UNDEFINED)</div>]]>
-    </line>
-    <line>
-      <![CDATA[<div "result">i open browser with url &quot;http:&#x2F;&#x2F;www.orangehrm.qedgetech.com&#x2F;&quot; (UNDEFINED)</div>]]>
-    </line>
-    <line>
-      <![CDATA[<div "result">i should see login page (UNDEFINED)</div>]]>
-    </line>
-    <line>
-      <![CDATA[<div "result">i enter username as &quot;&quot; (UNDEFINED)</div>]]>
-    </line>
-    <line>
-      <![CDATA[<div "result">i enter password as &quot;&quot; (UNDEFINED)</div>]]>
-    </line>
-    <line>
-      <![CDATA[<div "result">i click login (UNDEFINED)</div>]]>
-    </line>
-    <line>
-      <![CDATA[<div "result">i should see error message (UNDEFINED)</div>]]>
-    </line>
-    <line>
-      <![CDATA[<div "result">i close browser (UNDEFINED)</div>]]>
+      <![CDATA[<div "result">i close browser (SKIPPED)</div>]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-07-26T15:34:54 IST" name="Default suite" finished-at="2024-07-26T15:34:54 IST" duration-ms="264">
+  <suite started-at="2024-08-11T10:35:48 IST" name="Default suite" finished-at="2024-08-11T10:35:59 IST" duration-ms="10923">
     <groups>
       <group name="cucumber">
         <method signature="AbstractTestNGCucumberTests.runScenario(cucumber.api.testng.PickleEventWrapper,cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.Runner@7188af83]" name="runScenario" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test started-at="2024-07-26T15:34:54 IST" name="Default test" finished-at="2024-07-26T15:34:54 IST" duration-ms="264">
+    <test started-at="2024-08-11T10:35:48 IST" name="Default test" finished-at="2024-08-11T10:35:59 IST" duration-ms="10923">
       <class name="testRunner.Runner">
-        <test-method is-config="true" signature="setUpClass()[pri:0, instance:testRunner.Runner@7188af83]" started-at="2024-07-26T15:34:54 IST" name="setUpClass" finished-at="2024-07-26T15:34:54 IST" duration-ms="97" status="PASS">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:testRunner.Runner@7188af83]" started-at="2024-08-11T10:35:48 IST" name="setUpClass" finished-at="2024-08-11T10:35:49 IST" duration-ms="322" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper,cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.Runner@7188af83]" started-at="2024-07-26T15:34:54 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-07-26T15:34:54 IST" duration-ms="35" status="SKIP">
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper,cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.Runner@7188af83]" started-at="2024-08-11T10:35:49 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-08-11T10:35:53 IST" duration-ms="4016" status="SKIP">
           <params>
             <param index="0">
               <value>
@@ -159,77 +117,75 @@
               </value>
             </param>
           </params>
-          <exception class="org.testng.SkipException">
+          <exception class="org.openqa.selenium.WebDriverException">
             <message>
-              <![CDATA[There are undefined steps]]>
+              <![CDATA[unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=127.0.6533.100)
+Build info: version: '4.18.0', revision: 'b6bf9de7cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f9d9b21af9cd65392c760e3e85ba42d1, get {url=http://www.orangehrm.qedgetech.com/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.100, chrome: {chromedriverVersion: 127.0.6533.99 (f31af5097d90..., userDataDir: C:\Users\uccha\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56998}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56998/devtoo..., se:cdpVersion: 127.0.6533.100, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f9d9b21af9cd65392c760e3e85ba42d1]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.testng.SkipException: There are undefined steps
-at cucumber.api.testng.TestCaseResultListener.getError(TestCaseResultListener.java:58)
-at cucumber.api.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:59)
-at cucumber.api.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:22)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:739)
-at org.testng.TestRunner.run(TestRunner.java:614)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
-at org.testng.SuiteRunner.run(SuiteRunner.java:312)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
-at org.testng.TestNG.runSuites(TestNG.java:1112)
-at org.testng.TestNG.run(TestNG.java:1079)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+              <![CDATA[org.openqa.selenium.WebDriverException: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=127.0.6533.100)
+Build info: version: '4.18.0', revision: 'b6bf9de7cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f9d9b21af9cd65392c760e3e85ba42d1, get {url=http://www.orangehrm.qedgetech.com/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.100, chrome: {chromedriverVersion: 127.0.6533.99 (f31af5097d90..., userDataDir: C:\Users\uccha\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56998}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56998/devtoo..., se:cdpVersion: 127.0.6533.100, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f9d9b21af9cd65392c760e3e85ba42d1
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:301)
+at stepDefination.StepDefinations.launchApp(StepDefinations.java:23)
+at ✽.i open browser with url "http://www.orangehrm.qedgetech.com/"(./FeatureFiles/login.feature:7)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.testng.SkipException -->
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
           <reporter-output>
             <line>
-              <![CDATA[<div "result">i open browser with url &quot;http:&#x2F;&#x2F;www.orangehrm.qedgetech.com&#x2F;&quot; (UNDEFINED)</div>]]>
+              <![CDATA[<div "result">i open browser with url &quot;http:&#x2F;&#x2F;www.orangehrm.qedgetech.com&#x2F;&quot; (FAILED : 3s)</div>]]>
             </line>
             <line>
-              <![CDATA[<div "result">i should see login page (UNDEFINED)</div>]]>
+              <![CDATA[<div "result">i should see login page (SKIPPED)</div>]]>
             </line>
             <line>
-              <![CDATA[<div "result">i enter username as &quot;Admin&quot; (UNDEFINED)</div>]]>
+              <![CDATA[<div "result">i enter username as &quot;Admin&quot; (SKIPPED)</div>]]>
             </line>
             <line>
-              <![CDATA[<div "result">i enter password as &quot;Qedge123!@#&quot; (UNDEFINED)</div>]]>
+              <![CDATA[<div "result">i enter password as &quot;Qedge123!@#&quot; (SKIPPED)</div>]]>
             </line>
             <line>
-              <![CDATA[<div "result">i click login (UNDEFINED)</div>]]>
+              <![CDATA[<div "result">i click login (SKIPPED)</div>]]>
             </line>
             <line>
-              <![CDATA[<div "result">i should see admin module (UNDEFINED)</div>]]>
+              <![CDATA[<div "result">i should see admin module (SKIPPED)</div>]]>
             </line>
             <line>
-              <![CDATA[<div "result">i click logout (UNDEFINED)</div>]]>
+              <![CDATA[<div "result">i click logout (SKIPPED)</div>]]>
             </line>
             <line>
-              <![CDATA[<div "result">i should see login page (UNDEFINED)</div>]]>
+              <![CDATA[<div "result">i should see login page (SKIPPED)</div>]]>
             </line>
             <line>
-              <![CDATA[<div "result">i close browser (UNDEFINED)</div>]]>
+              <![CDATA[<div "result">i close browser (SKIPPED)</div>]]>
             </line>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper,cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.Runner@7188af83]" started-at="2024-07-26T15:34:54 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-07-26T15:34:54 IST" duration-ms="7" status="SKIP">
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper,cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.Runner@7188af83]" started-at="2024-08-11T10:35:53 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-08-11T10:35:55 IST" duration-ms="1980" status="SKIP">
           <params>
             <param index="0">
               <value>
@@ -242,71 +198,69 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
               </value>
             </param>
           </params>
-          <exception class="org.testng.SkipException">
+          <exception class="org.openqa.selenium.WebDriverException">
             <message>
-              <![CDATA[There are undefined steps]]>
+              <![CDATA[unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=127.0.6533.100)
+Build info: version: '4.18.0', revision: 'b6bf9de7cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a720e25b260fbb26a6e1a146b92741bf, get {url=http://www.orangehrm.qedgetech.com/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.100, chrome: {chromedriverVersion: 127.0.6533.99 (f31af5097d90..., userDataDir: C:\Users\uccha\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57010}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57010/devtoo..., se:cdpVersion: 127.0.6533.100, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a720e25b260fbb26a6e1a146b92741bf]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.testng.SkipException: There are undefined steps
-at cucumber.api.testng.TestCaseResultListener.getError(TestCaseResultListener.java:58)
-at cucumber.api.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:59)
-at cucumber.api.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:22)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:739)
-at org.testng.TestRunner.run(TestRunner.java:614)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
-at org.testng.SuiteRunner.run(SuiteRunner.java:312)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
-at org.testng.TestNG.runSuites(TestNG.java:1112)
-at org.testng.TestNG.run(TestNG.java:1079)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+              <![CDATA[org.openqa.selenium.WebDriverException: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=127.0.6533.100)
+Build info: version: '4.18.0', revision: 'b6bf9de7cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a720e25b260fbb26a6e1a146b92741bf, get {url=http://www.orangehrm.qedgetech.com/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.100, chrome: {chromedriverVersion: 127.0.6533.99 (f31af5097d90..., userDataDir: C:\Users\uccha\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57010}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57010/devtoo..., se:cdpVersion: 127.0.6533.100, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a720e25b260fbb26a6e1a146b92741bf
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:301)
+at stepDefination.StepDefinations.launchApp(StepDefinations.java:23)
+at ✽.i open browser with url "http://www.orangehrm.qedgetech.com/"(./FeatureFiles/login.feature:19)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.testng.SkipException -->
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
           <reporter-output>
             <line>
-              <![CDATA[<div "result">i open browser with url &quot;http:&#x2F;&#x2F;www.orangehrm.qedgetech.com&#x2F;&quot; (UNDEFINED)</div>]]>
+              <![CDATA[<div "result">i open browser with url &quot;http:&#x2F;&#x2F;www.orangehrm.qedgetech.com&#x2F;&quot; (FAILED : 1s)</div>]]>
             </line>
             <line>
-              <![CDATA[<div "result">i should see login page (UNDEFINED)</div>]]>
+              <![CDATA[<div "result">i should see login page (SKIPPED)</div>]]>
             </line>
             <line>
-              <![CDATA[<div "result">i enter username as &quot;Admin&quot; (UNDEFINED)</div>]]>
+              <![CDATA[<div "result">i enter username as &quot;Admin&quot; (SKIPPED)</div>]]>
             </line>
             <line>
-              <![CDATA[<div "result">i enter password as &quot;Qedge@123&quot; (UNDEFINED)</div>]]>
+              <![CDATA[<div "result">i enter password as &quot;Qedge@123&quot; (SKIPPED)</div>]]>
             </line>
             <line>
-              <![CDATA[<div "result">i click login (UNDEFINED)</div>]]>
+              <![CDATA[<div "result">i click login (SKIPPED)</div>]]>
             </line>
             <line>
-              <![CDATA[<div "result">i should see error message (UNDEFINED)</div>]]>
+              <![CDATA[<div "result">i should see error message (SKIPPED)</div>]]>
             </line>
             <line>
-              <![CDATA[<div "result">i close browser (UNDEFINED)</div>]]>
+              <![CDATA[<div "result">i close browser (SKIPPED)</div>]]>
             </line>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper,cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.Runner@7188af83]" started-at="2024-07-26T15:34:54 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-07-26T15:34:54 IST" duration-ms="6" status="SKIP">
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper,cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.Runner@7188af83]" started-at="2024-08-11T10:35:55 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-08-11T10:35:57 IST" duration-ms="2028" status="SKIP">
           <params>
             <param index="0">
               <value>
@@ -319,71 +273,69 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
               </value>
             </param>
           </params>
-          <exception class="org.testng.SkipException">
+          <exception class="org.openqa.selenium.WebDriverException">
             <message>
-              <![CDATA[There are undefined steps]]>
+              <![CDATA[unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=127.0.6533.100)
+Build info: version: '4.18.0', revision: 'b6bf9de7cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [07c85d747b95bb1f46652a7437b0f6e9, get {url=http://www.orangehrm.qedgetech.com/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.100, chrome: {chromedriverVersion: 127.0.6533.99 (f31af5097d90..., userDataDir: C:\Users\uccha\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57023}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57023/devtoo..., se:cdpVersion: 127.0.6533.100, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 07c85d747b95bb1f46652a7437b0f6e9]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.testng.SkipException: There are undefined steps
-at cucumber.api.testng.TestCaseResultListener.getError(TestCaseResultListener.java:58)
-at cucumber.api.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:59)
-at cucumber.api.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:22)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:739)
-at org.testng.TestRunner.run(TestRunner.java:614)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
-at org.testng.SuiteRunner.run(SuiteRunner.java:312)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
-at org.testng.TestNG.runSuites(TestNG.java:1112)
-at org.testng.TestNG.run(TestNG.java:1079)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+              <![CDATA[org.openqa.selenium.WebDriverException: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=127.0.6533.100)
+Build info: version: '4.18.0', revision: 'b6bf9de7cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [07c85d747b95bb1f46652a7437b0f6e9, get {url=http://www.orangehrm.qedgetech.com/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.100, chrome: {chromedriverVersion: 127.0.6533.99 (f31af5097d90..., userDataDir: C:\Users\uccha\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57023}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57023/devtoo..., se:cdpVersion: 127.0.6533.100, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 07c85d747b95bb1f46652a7437b0f6e9
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:301)
+at stepDefination.StepDefinations.launchApp(StepDefinations.java:23)
+at ✽.i open browser with url "http://www.orangehrm.qedgetech.com/"(./FeatureFiles/login.feature:19)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.testng.SkipException -->
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
           <reporter-output>
             <line>
-              <![CDATA[<div "result">i open browser with url &quot;http:&#x2F;&#x2F;www.orangehrm.qedgetech.com&#x2F;&quot; (UNDEFINED)</div>]]>
+              <![CDATA[<div "result">i open browser with url &quot;http:&#x2F;&#x2F;www.orangehrm.qedgetech.com&#x2F;&quot; (FAILED : 2s)</div>]]>
             </line>
             <line>
-              <![CDATA[<div "result">i should see login page (UNDEFINED)</div>]]>
+              <![CDATA[<div "result">i should see login page (SKIPPED)</div>]]>
             </line>
             <line>
-              <![CDATA[<div "result">i enter username as &quot;admin&quot; (UNDEFINED)</div>]]>
+              <![CDATA[<div "result">i enter username as &quot;Amin&quot; (SKIPPED)</div>]]>
             </line>
             <line>
-              <![CDATA[<div "result">i enter password as &quot;Qedge123!@#&quot; (UNDEFINED)</div>]]>
+              <![CDATA[<div "result">i enter password as &quot;Qedge&quot; (SKIPPED)</div>]]>
             </line>
             <line>
-              <![CDATA[<div "result">i click login (UNDEFINED)</div>]]>
+              <![CDATA[<div "result">i click login (SKIPPED)</div>]]>
             </line>
             <line>
-              <![CDATA[<div "result">i should see error message (UNDEFINED)</div>]]>
+              <![CDATA[<div "result">i should see error message (SKIPPED)</div>]]>
             </line>
             <line>
-              <![CDATA[<div "result">i close browser (UNDEFINED)</div>]]>
+              <![CDATA[<div "result">i close browser (SKIPPED)</div>]]>
             </line>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper,cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.Runner@7188af83]" started-at="2024-07-26T15:34:54 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-07-26T15:34:54 IST" duration-ms="3" status="SKIP">
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper,cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.Runner@7188af83]" started-at="2024-08-11T10:35:57 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-08-11T10:35:59 IST" duration-ms="2254" status="SKIP">
           <params>
             <param index="0">
               <value>
@@ -396,225 +348,69 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
               </value>
             </param>
           </params>
-          <exception class="org.testng.SkipException">
+          <exception class="org.openqa.selenium.WebDriverException">
             <message>
-              <![CDATA[There are undefined steps]]>
+              <![CDATA[unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=127.0.6533.100)
+Build info: version: '4.18.0', revision: 'b6bf9de7cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8e3b0b05f8784439c36026df38655852, get {url=http://www.orangehrm.qedgetech.com/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.100, chrome: {chromedriverVersion: 127.0.6533.99 (f31af5097d90..., userDataDir: C:\Users\uccha\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57036}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57036/devtoo..., se:cdpVersion: 127.0.6533.100, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8e3b0b05f8784439c36026df38655852]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.testng.SkipException: There are undefined steps
-at cucumber.api.testng.TestCaseResultListener.getError(TestCaseResultListener.java:58)
-at cucumber.api.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:59)
-at cucumber.api.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:22)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:739)
-at org.testng.TestRunner.run(TestRunner.java:614)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
-at org.testng.SuiteRunner.run(SuiteRunner.java:312)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
-at org.testng.TestNG.runSuites(TestNG.java:1112)
-at org.testng.TestNG.run(TestNG.java:1079)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+              <![CDATA[org.openqa.selenium.WebDriverException: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=127.0.6533.100)
+Build info: version: '4.18.0', revision: 'b6bf9de7cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8e3b0b05f8784439c36026df38655852, get {url=http://www.orangehrm.qedgetech.com/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.100, chrome: {chromedriverVersion: 127.0.6533.99 (f31af5097d90..., userDataDir: C:\Users\uccha\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57036}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57036/devtoo..., se:cdpVersion: 127.0.6533.100, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8e3b0b05f8784439c36026df38655852
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:301)
+at stepDefination.StepDefinations.launchApp(StepDefinations.java:23)
+at ✽.i open browser with url "http://www.orangehrm.qedgetech.com/"(./FeatureFiles/login.feature:19)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.testng.SkipException -->
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
           <reporter-output>
             <line>
-              <![CDATA[<div "result">i open browser with url &quot;http:&#x2F;&#x2F;www.orangehrm.qedgetech.com&#x2F;&quot; (UNDEFINED)</div>]]>
+              <![CDATA[<div "result">i open browser with url &quot;http:&#x2F;&#x2F;www.orangehrm.qedgetech.com&#x2F;&quot; (FAILED : 2s)</div>]]>
             </line>
             <line>
-              <![CDATA[<div "result">i should see login page (UNDEFINED)</div>]]>
+              <![CDATA[<div "result">i should see login page (SKIPPED)</div>]]>
             </line>
             <line>
-              <![CDATA[<div "result">i enter username as &quot;admin1&quot; (UNDEFINED)</div>]]>
+              <![CDATA[<div "result">i enter username as &quot;admin1&quot; (SKIPPED)</div>]]>
             </line>
             <line>
-              <![CDATA[<div "result">i enter password as &quot;Qegebjh123!@#&quot; (UNDEFINED)</div>]]>
+              <![CDATA[<div "result">i enter password as &quot;Qegebjh123!@#&quot; (SKIPPED)</div>]]>
             </line>
             <line>
-              <![CDATA[<div "result">i click login (UNDEFINED)</div>]]>
+              <![CDATA[<div "result">i click login (SKIPPED)</div>]]>
             </line>
             <line>
-              <![CDATA[<div "result">i should see error message (UNDEFINED)</div>]]>
+              <![CDATA[<div "result">i should see error message (SKIPPED)</div>]]>
             </line>
             <line>
-              <![CDATA[<div "result">i close browser (UNDEFINED)</div>]]>
+              <![CDATA[<div "result">i close browser (SKIPPED)</div>]]>
             </line>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper,cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.Runner@7188af83]" started-at="2024-07-26T15:34:54 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-07-26T15:34:54 IST" duration-ms="5" status="SKIP">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA["Check Admin Login with invalid data"]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA["Admin Login"]]>
-              </value>
-            </param>
-          </params>
-          <exception class="org.testng.SkipException">
-            <message>
-              <![CDATA[There are undefined steps]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.testng.SkipException: There are undefined steps
-at cucumber.api.testng.TestCaseResultListener.getError(TestCaseResultListener.java:58)
-at cucumber.api.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:59)
-at cucumber.api.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:22)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:739)
-at org.testng.TestRunner.run(TestRunner.java:614)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
-at org.testng.SuiteRunner.run(SuiteRunner.java:312)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
-at org.testng.TestNG.runSuites(TestNG.java:1112)
-at org.testng.TestNG.run(TestNG.java:1079)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.testng.SkipException -->
-          <reporter-output>
-            <line>
-              <![CDATA[<div "result">i open browser with url &quot;http:&#x2F;&#x2F;www.orangehrm.qedgetech.com&#x2F;&quot; (UNDEFINED)</div>]]>
-            </line>
-            <line>
-              <![CDATA[<div "result">i should see login page (UNDEFINED)</div>]]>
-            </line>
-            <line>
-              <![CDATA[<div "result">i enter username as &quot;&quot; (UNDEFINED)</div>]]>
-            </line>
-            <line>
-              <![CDATA[<div "result">i enter password as &quot;&quot; (UNDEFINED)</div>]]>
-            </line>
-            <line>
-              <![CDATA[<div "result">i click login (UNDEFINED)</div>]]>
-            </line>
-            <line>
-              <![CDATA[<div "result">i should see error message (UNDEFINED)</div>]]>
-            </line>
-            <line>
-              <![CDATA[<div "result">i close browser (UNDEFINED)</div>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper,cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.Runner@7188af83]" started-at="2024-07-26T15:34:54 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-07-26T15:34:54 IST" duration-ms="5" status="SKIP">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA["Check Admin Login with invalid data"]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA["Admin Login"]]>
-              </value>
-            </param>
-          </params>
-          <exception class="org.testng.SkipException">
-            <message>
-              <![CDATA[There are undefined steps]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.testng.SkipException: There are undefined steps
-at cucumber.api.testng.TestCaseResultListener.getError(TestCaseResultListener.java:58)
-at cucumber.api.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:59)
-at cucumber.api.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:22)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:739)
-at org.testng.TestRunner.run(TestRunner.java:614)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
-at org.testng.SuiteRunner.run(SuiteRunner.java:312)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
-at org.testng.TestNG.runSuites(TestNG.java:1112)
-at org.testng.TestNG.run(TestNG.java:1079)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.testng.SkipException -->
-          <reporter-output>
-            <line>
-              <![CDATA[<div "result">i open browser with url &quot;http:&#x2F;&#x2F;www.orangehrm.qedgetech.com&#x2F;&quot; (UNDEFINED)</div>]]>
-            </line>
-            <line>
-              <![CDATA[<div "result">i should see login page (UNDEFINED)</div>]]>
-            </line>
-            <line>
-              <![CDATA[<div "result">i enter username as &quot;&quot; (UNDEFINED)</div>]]>
-            </line>
-            <line>
-              <![CDATA[<div "result">i enter password as &quot;&quot; (UNDEFINED)</div>]]>
-            </line>
-            <line>
-              <![CDATA[<div "result">i click login (UNDEFINED)</div>]]>
-            </line>
-            <line>
-              <![CDATA[<div "result">i should see error message (UNDEFINED)</div>]]>
-            </line>
-            <line>
-              <![CDATA[<div "result">i close browser (UNDEFINED)</div>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- runScenario -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:testRunner.Runner@7188af83]" started-at="2024-07-26T15:34:54 IST" name="tearDownClass" finished-at="2024-07-26T15:34:54 IST" duration-ms="3" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:testRunner.Runner@7188af83]" started-at="2024-08-11T10:35:59 IST" name="tearDownClass" finished-at="2024-08-11T10:35:59 IST" duration-ms="13" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
